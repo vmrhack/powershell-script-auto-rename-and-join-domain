@@ -3,4 +3,4 @@ Trong files info.txt nhập theo thứ tự:
   + Dòng 1: Key active Windows nếu có (nếu không có key thì bỏ trống dòng 1)
   + Dòng 2: Nhập COMPUTERNAME
 Nếu có files D:\info.txt thì sẽ hiện cửa sổ nhập username và password để join domain, nếu không sẽ có cửa sổ nhập COMPUTERNAME, USERNAME và Password
-<center><img src="https://github.com/vmrhack/powershell-script-auto-rename-and-join-domain/blob/master/powershell-script-auto-rename-computer-and-join-domain.png?raw=true" /> <br /> Nếu không có file info.txt<center>
+<center><img src="https://github.com/vmrhack/powershell-script-auto-rename-and-join-domain/blob/master/powershell-script-auto-rename-computer-and-join-domain.png?raw=true" /> <br /> Nếu không có file info.txt</center>
